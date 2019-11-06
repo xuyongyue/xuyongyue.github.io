@@ -1,7 +1,7 @@
 ## Welcome to Xu's Pages  
 ## Introduce: 
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)  
-<img src='https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/zhenxiang.png' align='right' style=' width:100px;height:200 px'/>
+<img src='https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/zhenxiang.png' align='right' style=' width:20px;height:30 px'/>
 
 *I am Xu*  
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/zhenxiang.png) 
