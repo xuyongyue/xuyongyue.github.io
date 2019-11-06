@@ -1,4 +1,6 @@
 ## Welcome to Xu's Pages  
+[Browse my repositories](https://github.com/xuyongyue?tab=repositories)  
+
 ## Introduce myself to you: 
 I am a senior student majoring in biology. Among fields in life science, I am interested in bioinformatics most, and last year I finished a simple project, a research about alternative splicing in rice, using some techniques of bioinformatics. I plan to do some reseaches about cancer in future. Just like many other college students, in my spare time, I like to browse the website of [bilibili](https://www.bilibili.com/) and watch some videos on it. I like some good animations. For example, Clannad, Angel Beats, and Steins Gate.  
 
