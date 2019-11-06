@@ -10,8 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)   
-*I am Xu*
-![delicious](https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/zhenxiang.png)   
+*I am Xu* 
+![dog](https://baike.baidu.com/pic/柴犬/524441/0/b151f8198618367adb114bec25738bd4b31ce562?fr=lemma&ct=single#aid=0&pic=ac345982b2b7d0a2eae7b1f2c1ef76094b369ab7)  
+
 ```markdown
 Syntax highlighted code block
 
@@ -20,7 +21,7 @@ Syntax highlighted code block
 ### Here is the picture!  
 
 ![so](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)
-![net](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=markdown%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=3431468138,659289960&os=4198899404,3311771828&simid=0,0&pn=0&rn=1&di=55990&ln=741&fr=&fmq=1573011698843_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic2.zhimg.com%2Fv2-fa19dc51982caa1d0669d01b1a97c673_1200x500.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined)
+
 - Bulleted
 - List
 *I am Xu*
