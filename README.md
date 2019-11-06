@@ -1,6 +1,5 @@
 ## Welcome to Xu's Pages  
-
-##Introduce: 
+## Introduce: 
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)   
 *I am Xu*  
 
