@@ -10,8 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)   
-*I am Xu* 
-![dog](https://baike.baidu.com/pic/柴犬/524441/0/b151f8198618367adb114bec25738bd4b31ce562?fr=lemma&ct=single#aid=0&pic=ac345982b2b7d0a2eae7b1f2c1ef76094b369ab7)  
+*I am Xu*  
+
+![dog](https://baike.baidu.com/pic/柴犬/524441/0/b151f8198618367adb114bec25738bd4b31ce562 fr=lemma&ct=single#aid=0&pic=ac345982b2b7d0a2eae7b1f2c1ef76094b369ab7)   
+This is dog!
 
 ```markdown
 Syntax highlighted code block
