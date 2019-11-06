@@ -15,3 +15,4 @@ I wrote a few chapters of my novel "FIRE". You can read it here.
 Want to see the code of this small project?[clik here](https://github.com/xuyongyue/Evolution) . If you have interesting ideas about it, or if you are willing to cooperate with me to develop it, just contact me!<kbd>xyywd123@163.com</kbd>  
 
 <img src='https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge.jpg'  style=' width:500px;height:100 px'/>
+![img]('https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge.jpg)
