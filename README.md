@@ -16,4 +16,4 @@ Want to see the code of this small project?[clik here](https://github.com/xuyong
 
 <img src='https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge.jpg'  style=' width:500px;height:100 px'/>  
 
-![img]('https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge.jpg)
+![img](https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge.jpg)
