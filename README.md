@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+![so delicious! 图标](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)
 - Bulleted
 - List
 
