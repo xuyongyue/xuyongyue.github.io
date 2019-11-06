@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages  
+## Welcome to Xu's Pages  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Introduce:
 ![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)   
 *I am Xu*  
 
