@@ -1,7 +1,9 @@
 ## Welcome to Xu's Pages  
 ## Introduce: 
-![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)   
+![delicious](https://github.com/xuyongyue/xuyongyue.github.io/blob/pics/pictures/zhenxiang.png)  
+
 *I am Xu*  
+![delicious](https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/zhenxiang.png) 
 
 You can use the [editor on GitHub](https://github.com/xuyongyue/xuyongyue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
