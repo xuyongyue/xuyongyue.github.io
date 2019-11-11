@@ -4,9 +4,9 @@
 ## Introduction to myself: 
 I am a senior student majoring in biology. Among fields in life science, I am interested in bioinformatics most, and last year I finished a simple project, a research about alternative splicing in rice, using some techniques of bioinformatics. I plan to do some reseaches about cancer in future. Just like many other college students, in my spare time, I like to browse the website of [bilibili](https://www.bilibili.com/) and watch some videos on it. I like some good animations. For example, *Clannad*, *Angel Beats*, and *Steins Gate*.  
 
-## My novel  
-I wrote a few chapters of my novel _FIRE_. You can read it here.   
-[Chapter 1.](https://xuyongyue.github.io/myworks/)  
+## My CV  
+I put my CV here. You can know more about me through it.   
+[My CV](https://xuyongyue.github.io/myworks/)  
 
 
 ## This is an uncompleted small project.
@@ -16,4 +16,3 @@ Want to see the code of this small project?[clik here](https://github.com/xuyong
 
 <img src='https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge1.jpg'  />  
 
-![img](https://github.com/xuyongyue/xuyongyue.github.io/raw/pics/pictures/fenge1.jpg)
